@@ -1,0 +1,127 @@
+.fullnav
+{
+    background-color: white; 
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+}
+#nav
+{
+  color: #0D6EFD;  
+  
+}
+.sec
+{
+    display: flex;
+    justify-content: space-between;
+}
+.subm
+{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+}
+.bts
+{
+    border-color: #0D6EFD ;
+    color: #0D6EFD; 
+}
+#h2
+{
+    margin-bottom: 25px;
+}
+.para
+{
+    padding-left: 61px;
+    padding-right: 50px;
+}
+
+#dropdownMenuLink
+{
+    background-color: white;
+    color: black;
+    border: none;
+}
+#dropdownMenuLink
+{
+    display: flex;
+    padding-left: 31px;
+    padding-right: 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.dropdown
+{
+    border-bottom: 1px solid #DEE2E6;
+}
+.drops
+{
+    margin-left: 31px;
+    margin-right: 40px;
+}
+.ch
+{
+    height: 41px;
+    padding: 10px;
+    padding-left: 20px;;
+    background-color: #f7f7f7;
+}
+.bts1
+{
+    border-radius: 3px;
+    border-color: #0D6EFD ;
+}
+.bc1
+{
+    display: flex;
+}
+#h3
+{
+    padding-left: 16px;
+}
+.lists
+{
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #DEE2E6;
+    border-top: 1px solid #DEE2E6;
+}
+.conti
+{
+    padding-bottom: 5px;
+}
+.links
+{
+    
+    
+    border-bottom: 1px solid #DEE2E6;
+}
+.th
+{
+    border-bottom: 1px solid black;
+    
+}
+.tdata
+{
+    padding-top: 5px;
+    margin: 10px;
+    border-bottom: 1px solid #DEE2E6;
+}
+#h4
+{
+    padding-left: 43px;
+}
+#f1
+{
+    padding-left: 43px;
+    padding-right: 43px;
+}
+#f1
+{
+    margin-bottom:20px;
+}
+.item
+{
+    margin-bottom: 10px;
+}
